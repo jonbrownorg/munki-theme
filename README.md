@@ -1,2 +1,2 @@
 # munki-theme
-Theming script for Munki's Managed Software Center. Contributions welcome. 
+Theming script for Munki's Managed Software Center. Contributions welcome. The script simply clones and builds [Munki](https://github.com/munki/munki) and applies and injects code as needed per the Dark-Theme that we have created. It helps take your Managed Software Center app to the next level offering full CSS injection theming, icons in top bar themeing, and integration with [Munki Rebrand.](https://github.com/ox-it/munki-rebrand) 
