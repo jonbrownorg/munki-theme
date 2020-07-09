@@ -62,8 +62,10 @@ div.msc-button-inner {
 	padding-bottom: 10px;
 	height: 33px !important;
 	border-radius: 20px !important;
-	width: 130px !important;
+	width: 75% !important;
 	font-size: 12px !important;
+	position: absolute;
+	margin-left: -85px;
 }
 
 div.msc-button-inner.large {
