@@ -78,7 +78,7 @@ div.lockup-container div.lockup {
     max-width: 310px !important;
     min-height: 160px !important;
     border-radius: 10px !important;
-    box-shadow: 0 4px 8px -2px rgba(0, 0, 0, 0.15), 0 4px 8px -2px rgba(0, 0, 0, 0.15)  !important;
+     /* box-shadow: 0 4px 8px -2px rgba(0, 0, 0, 0.15), 0 4px 8px -2px rgba(0, 0, 0, 0.15)  !important; */
 }
 
 div.msc-button {
@@ -98,7 +98,7 @@ div.msc-button-inner {
 	font-size: 12px !important;
 	position: absolute;
 	margin-left: -85px;
-	box-shadow: 0 4px 8px -2px rgba(0, 0, 0, 0.15), 0 4px 8px -2px rgba(0, 0, 0, 0.15)  !important;
+	 /* box-shadow: 0 4px 8px -2px rgba(0, 0, 0, 0.15), 0 4px 8px -2px rgba(0, 0, 0, 0.15)  !important; */
 }
 
 div.msc-button-inner.large {
