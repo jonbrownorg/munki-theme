@@ -32,7 +32,7 @@ These core files are needed to build Munki Tools. While they are already include
 We will be adding more to this readme, but also buiding out the Wiki a bit more over time to show how to....
 
 1. Create your own custom theme
-- How to create your own custom.css file with script placeholders. 
+- [How to create your own custom.css file with script placeholders.](https://github.com/jonbrown21/munki-theme/wiki/Creating-a-custom.css-file) 
 - How to create your own custom icons for the top toolbar
 - What to do if you do not wish to modify the detail_more_items_template or mschtml.swift files
 2. How to submit your theme for review
