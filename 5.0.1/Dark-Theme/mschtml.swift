@@ -372,7 +372,7 @@ func buildListPage(category: String = "",
     if category.isEmpty && filter.isEmpty && developer.isEmpty {
         more_templates["showcase"] = getRawTemplate("showcase_template.html")
     } else {
-        more_templates["showcase"] = ""
+        more_templates["showcase"] = getRawTemplate("showcase_template.html")
     }
     more_templates["sidebar"] = getRawTemplate("sidebar_template.html")
     more_templates["footer"] = getRawTemplate("footer_template.html")
