@@ -1,0 +1,317 @@
+#category-selector
+{
+	margin-left: 25px;
+	padding-left: 20px;
+	width: 200px !important;
+}
+#wrapper
+{
+	background: #c8d6e5 !important;
+	max-width: 90% !important;
+}
+.columns .main div.lockup-container
+{
+	bottom: 40px;
+	left: 360px;
+	overflow-x: none;
+	overflow-y: scroll;
+	position: fixed !important;
+	top: 220px;
+}
+.columns .main div.product-detail
+{
+	left: 380px;
+	position: fixed !important;
+	top: 20px;
+}
+.custom-detail
+{
+	margin-left: -10px;
+	width: 90%;
+}
+.installation td
+{
+	background: white !important;
+	padding: 20px !important;
+}
+.installed span
+{
+	color: red !important;
+	font-size: 11px !important;
+}
+.left
+{
+	float: left;
+	width: 45px;
+}
+.more-by .content
+{
+	padding-top: 10px;
+}
+.more-by h2 a
+{
+	color: #eeeeee !important;
+}
+.name a
+{
+	color: #eeeeee !important;
+	font-size: 16px !important;
+	word-wrap: break-word !important;
+}
+.popup
+{
+	margin-left: -20px !important;
+}
+.sidebar
+{
+	background-color: rgba(257,256,255,0.4);
+	bottom: 0;
+	left: 0;
+	margin-left: -5px !important;
+	margin-top: 0px !important;
+	overflow-x: none;
+	overflow-y: scroll;
+	padding: 20px;
+	position: fixed;
+	top: 0;
+	width: 300px !important;
+	z-index: 10;
+}
+.sidebar ol li
+{
+	margin-left: -15px;
+	padding-bottom: 27px !important;
+	padding-top: 13px !important;
+	width: 300px !important;
+}
+.sidebar ol li a
+{
+	color: #718093 !important;
+	font-weight: bold !important;
+	padding-left: 10px;
+	text-decoration: none;
+	text-transform: uppercase !important;
+}
+.sidebar ol li:hover, .sidebar ol li:hover a
+{
+	background-color: #9d9e9a;
+	color: #FFFFFF !important;
+}
+.w-75
+{
+	width: 175px;
+}
+body.product .product-detail .product-info .product-review p,body.product .product-detail .product-info .product-review div,body.product .product-detail .product-info .product-review ul
+{
+	color: #eeeeee !important;
+}
+body.product .product-detail .product-info .title h1
+{
+	color: #eeeeee !important;
+}
+body.product .sidebar .app-info .content
+{
+	color: #eeeeee !important;
+}
+body.product .sidebar .app-info li .label,
+body.product .sidebar .app-info p span.label
+{
+	color: #eeeeee !important;
+}
+body.product .sidebar .more-by .content a
+{
+	color: #eeeeee !important;
+}
+body.product .sidebar .more-by div.lockup
+{
+	height: 55px !important;
+}
+div.bottom-links
+{
+	border-top: 1px solid #c8d6e5 !important;
+	padding-bottom: 60px !important;
+}
+div.lockup div.msc-button-inner.large
+{
+	padding-top: 10px;
+}
+div.lockup-container .button-area
+{
+	margin-right: -30px;
+	width: 200px;
+}
+div.lockup-container .button-area
+{
+	margin-right: -30px;
+	width: 200px;
+}
+div.lockup-container .title, div.titled-container .title
+{
+	border: none !important;
+	margin-left: 30px;
+	padding-bottom: 10px;
+}
+div.lockup-container div.lockup
+{
+	background-color: white !important;
+	border-radius: 10px !important;
+	display: block;
+	float: left;
+	height: 98px;
+	margin: 10px !important;
+	max-width: 310px !important;
+	min-height: 160px !important;
+	padding: 20px !important;
+	width: 30.3% !important;
+	/* box-shadow: 0 4px 8px -2px rgba(0, 0, 0, 0.15), 0 4px 8px -2px rgba(0, 0, 0, 0.15)  !important; */
+}
+div.lockup-container div.lockup div.artwork
+{
+	margin-right: 0px !important;
+	text-align: center !important;
+}
+div.lockup-container div.lockup div.msc-button-inner
+{
+	padding-top: 10px;
+}
+div.lockup-container div.lockup ul
+{
+	padding-bottom: 0px !important;
+	padding-left: 20px !important;
+}
+div.lockup-container div.lockup ul li
+{
+	padding: 5px !important;
+}
+div.lockup-container div.lockup ul li span.progress-spinner
+{
+	display: none !important;
+}
+div.msc-button
+{
+	background-color: none !important;
+	min-width: 100px !important;
+}
+div.msc-button-inner
+{
+	background: #dcdde1 !important;
+	border: none !important;
+	border-radius: 20px !important;
+	color: #2f3640 !important;
+	font-size: 12px !important;
+	height: 33px !important;
+	margin-left: -85px;
+	padding-bottom: 10px;
+	padding-top: 5px;
+	position: absolute;
+	width: 75% !important;
+	/* box-shadow: 0 4px 8px -2px rgba(0, 0, 0, 0.15), 0 4px 8px -2px rgba(0, 0, 0, 0.15)  !important; */
+}
+div.msc-button-inner.large
+{
+	background: #7f8fa6 !important;
+	border: 0px solid rgb(42, 73, 118) !important;
+	border-color: #000 !important;
+	color: #fff !important;
+	font-family: \\\"Helvetica\\\";
+	font-size: 12px !important;
+	height: 40px !important;
+	line-height: 21px;
+	margin-left: 0px !important;
+	min-width: 150px !important;
+	position: relative;
+	text-transform: capitalize;
+	text-transform: uppercase !important;
+	webkit-border-radius: 5px;
+}
+div.paginated-container
+{
+	margin-left: 20px !important;
+}
+div.product-info
+{
+	margin-top: 16px !important;
+}
+div.showcase
+{
+	height: 200px;
+	left: 380px !important;
+	position: fixed !important;
+	top: 0;
+	webkit-border-bottom-right-radius: 0px !important;
+	width: 70%;
+	z-index: 9;
+}
+div.showcase, div.showcase>div.stage, div.showcase>div.stage *
+{
+	webkit-border-bottom-left-radius: 10px !important;
+	webkit-border-bottom-right-radius: 10px !important;
+}
+div.stage>img
+{
+	height: 200px;
+	left: 0;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	text-align: left;
+	webkit-transition: opacity 1s ease-in-out;
+}
+div.titled-box h2
+{
+	border: none !important;
+	padding-bottom: 10px;
+}
+footer
+{
+	bottom: 0;
+	height: 40px;
+	left: 200px;
+	overflow: hidden;
+	padding-top: 7px !important;
+	position: fixed;
+}
+h2, th
+{
+	color: #718093 !important;
+	font-size: 16px !important;
+	text-transform: uppercase !important;
+}
+html, body
+{
+	background-color: #c8d6e5 !important;
+}
+option selected
+{
+	color: red !important;
+}
+p
+{
+	color: #eeeeee !important;
+}
+thead
+{
+	padding-bottom: 50px !important;
+}
+tr:first-child td:first-child
+{
+	border-top-left-radius: 10px !important;
+}
+tr:first-child td:last-child
+{
+	border-top-right-radius: 10px !important;
+}
+tr:last-child td:first-child
+{
+	border-bottom-left-radius: 10px !important;
+}
+tr:last-child td:last-child
+{
+	border-bottom-right-radius: 10px !important;
+}
+ul.list li a
+{
+	color: #eeeeee !important;
+	font-size: 12px !important;
+	text-transform: uppercase !important;
+}
