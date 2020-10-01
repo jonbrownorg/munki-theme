@@ -1,4 +1,0 @@
-xattr==0.9.6
-pyobjc==6.2.2
-six
-pyopenssl
