@@ -39,3 +39,5 @@ We will be adding more to this readme, but also buiding out the Wiki a bit more 
 3. Show off your theme design in the gallery
 
 For now you can get support for Munki Themes in the #munki-theme section of the MacAdmins slack and we will do our best to help you. Pull requests are welcome for new themes and for corrections, bug fixes and suggestions for the core dark-theme. 
+
+<a href="https://www.buymeacoffee.com/jonbrown" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
